@@ -1,1 +1,1 @@
-# eunice-6001cmd-cw1
+# eunice's Machine Learning cw1
